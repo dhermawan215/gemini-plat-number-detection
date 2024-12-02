@@ -1,0 +1,50 @@
+[
+	{
+      'plat_no': 'AB 1013 MI',
+      'vehicle':'car',
+      'vehicle_type':'MPV',
+      'color': 'White',
+      'gate_open': 'N/A',
+      'gate_closed':'N/A'
+    },
+  {
+     'plat_no': 'AB 1668 AF',
+     'vehicle':'car',
+      'vehicle_type':'SUV',
+    'color': 'White',
+    'gate_open': 'N/A',
+    'gate_closed':'N/A'
+  },
+  {
+    'plat_no': 'AD 1585 AJ',
+    'vehicle':'car',
+    'vehicle_type':'MPV',
+    'color': 'white',
+    'gate_open': 'N/A',
+    'gate_closed':'N/A'
+  },
+  {
+    'plat_no': 'กธ 7622',
+    'vehicle':'car',
+    'vehicle_type':'MPV',
+    'color': 'white', 
+    'gate_open': 'N/A',
+    'gate_closed':'N/A'
+  },
+  {
+    'plat_no': 'B 1271 CR',
+    'vehicle':'car',
+    'vehicle_type':'MPV',
+    'color': 'Black',
+    'gate_open': 'N/A',
+    'gate_closed':'N/A'
+  },
+  {
+    'plat_no': 'B 1171 IG',
+    'vehicle':'car',
+    'vehicle_type':'MPV',
+    'color': 'Black', 
+    'gate_open': 'N/A',
+    'gate_closed':'N/A'}
+  
+]
